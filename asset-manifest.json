@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rey2424/random-avatar-generator/static/css/main.ad9e6a13.chunk.css",
+    "main.js": "/rey2424/random-avatar-generator/static/js/main.871da843.chunk.js",
+    "main.js.map": "/rey2424/random-avatar-generator/static/js/main.871da843.chunk.js.map",
+    "runtime-main.js": "/rey2424/random-avatar-generator/static/js/runtime-main.4c138ea9.js",
+    "runtime-main.js.map": "/rey2424/random-avatar-generator/static/js/runtime-main.4c138ea9.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/rey2424/random-avatar-generator/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.2f7a48c9.chunk.js": "/rey2424/random-avatar-generator/static/js/2.2f7a48c9.chunk.js",
+    "static/js/2.2f7a48c9.chunk.js.map": "/rey2424/random-avatar-generator/static/js/2.2f7a48c9.chunk.js.map",
+    "index.html": "/rey2424/random-avatar-generator/index.html",
+    "precache-manifest.530c1c4ebd71b1cead068b208b3513a8.js": "/rey2424/random-avatar-generator/precache-manifest.530c1c4ebd71b1cead068b208b3513a8.js",
+    "service-worker.js": "/rey2424/random-avatar-generator/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/rey2424/random-avatar-generator/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.ad9e6a13.chunk.css.map": "/rey2424/random-avatar-generator/static/css/main.ad9e6a13.chunk.css.map",
+    "static/js/2.2f7a48c9.chunk.js.LICENSE.txt": "/rey2424/random-avatar-generator/static/js/2.2f7a48c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c138ea9.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.2f7a48c9.chunk.js",
+    "static/css/main.ad9e6a13.chunk.css",
+    "static/js/main.871da843.chunk.js"
+  ]
+}
