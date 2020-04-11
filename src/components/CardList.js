@@ -3,9 +3,7 @@ import Card from './Card';
 
 const CardList = ({people}) => {
     
-    if(true){
-        throw new Error('no');
-    }
+   
     return (
         <div>{
             people.map((user, i) => {
