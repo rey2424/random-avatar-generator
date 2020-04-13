@@ -57,4 +57,6 @@ class App extends Component {
 }
 
 
+
+//exporting
 export default connect(mapStateToProps, mapDispatchToProps)(App);

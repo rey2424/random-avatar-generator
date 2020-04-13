@@ -6,7 +6,7 @@ const initialStateSearch = {
 }
 
 
-
+//reducer1
 export const searchPeople = (state=initialStateSearch, action={}) => {
     switch(action.type) {
         case CHANGE_SEARCH_FIELD:
@@ -16,12 +16,16 @@ export const searchPeople = (state=initialStateSearch, action={}) => {
     }
 } 
 
+
+
 const initialStatePeople = {
     isPending: false,
     people: [],
     error: ''
 }
 
+
+//reducer2
 export const requestPeople = (state=initialStatePeople, action={}) => {
     switch(action.type){
         case REQUEST_PEOPLE_PENDING:

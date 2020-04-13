@@ -1,5 +1,7 @@
 import React, {Component} from 'react';
 
+
+//created errorboudnry
 class ErrorBoundry extends Component {
 
     constructor(props) {

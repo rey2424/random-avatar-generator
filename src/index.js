@@ -10,6 +10,8 @@ import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 import { searchPeople, requestPeople } from './reducers';
 
+
+//logger for redux
 const logger = createLogger();
 
 const rootReducers = combineReducers({searchPeople, requestPeople})

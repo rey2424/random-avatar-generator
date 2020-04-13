@@ -1,6 +1,8 @@
 
 import {CHANGE_SEARCH_FIELD, REQUEST_PEOPLE_PENDING, REQUEST_PEOPLE_SUCCESS, REQUEST_PEOPLE_FAILED} from './constants.js'
 
+
+//redux
 export const setSearchField = (text) => ({
     type: CHANGE_SEARCH_FIELD,
     payload: text
@@ -9,6 +11,8 @@ export const setSearchField = (text) => ({
 const apiCall = (link) =>
   fetch(link).then(response => response.json())
   
+
+  //redux
 export const requestPeople = () => (dispatch) => {
 
     dispatch({type: REQUEST_PEOPLE_PENDING});
